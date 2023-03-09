@@ -1,2 +1,0 @@
-#!/bin/bash
-cp -u $(find . -maxdepth 1 -name "*.html") ..
